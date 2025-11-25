@@ -1,29 +1,29 @@
 class Solution {
     public int maxDepth(String s) {
 
-        // Tracks the current number of open parentheses
-        int openingBracket = 0;
+        // Stack to track the current nesting of parentheses
+        Stack<Character> st = new Stack<>();
 
-        // Stores the maximum depth encountered
+        // Variable to store the maximum depth encountered
         int result = 0;
 
-        // Iterate through every character in the string
+        // Traverse each character in the string
         for (char ch : s.toCharArray()) {
 
-            // If we see an opening bracket, increase depth
+            // If it's an opening bracket, push to stack (depth increases)
             if (ch == '(') {
-                openingBracket++;
+                st.push(ch);
             }
-            // If we see a closing bracket, decrease depth
+            // If it's a closing bracket, pop from stack (depth decreases)
             else if (ch == ')') {
-                openingBracket--;
+                st.pop();
             }
 
-            // Update the maximum depth reached so far
-            result = Math.max(result, openingBracket);
+            // After each operation, update the maximum depth so far
+            result = Math.max(result, st.size());
         }
 
-        // Final maximum nesting depth
+        // Return the maximum nesting depth
         return result;
     }
 }
