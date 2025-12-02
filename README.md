@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0151-reverse-words-in-a-string) |
+| [0686-repeated-string-match](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0686-repeated-string-match) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -61,4 +62,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
