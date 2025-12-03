@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0992-subarrays-with-k-different-integers) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Sliding Window
 |  |
 | ------- |
