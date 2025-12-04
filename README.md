@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0268-missing-number) |
 | [0992-subarrays-with-k-different-integers](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Math
@@ -34,11 +35,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0268-missing-number) |
 ## Array
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0485-max-consecutive-ones) |
 | [0992-subarrays-with-k-different-integers](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0992-subarrays-with-k-different-integers) |
@@ -86,4 +89,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1392-longest-happy-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
