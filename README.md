@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0485-max-consecutive-ones) |
 | [0992-subarrays-with-k-different-integers](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
