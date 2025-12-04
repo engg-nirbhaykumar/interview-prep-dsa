@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0268-missing-number) |
 | [0992-subarrays-with-k-different-integers](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0992-subarrays-with-k-different-integers) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0189-rotate-array) |
