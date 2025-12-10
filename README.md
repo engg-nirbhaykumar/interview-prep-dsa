@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0189-rotate-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0053-maximum-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1925-count-square-sum-triples) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
