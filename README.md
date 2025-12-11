@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0136-single-number) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0074-search-a-2d-matrix) |
 ## Graph
 |  |
@@ -145,5 +147,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
