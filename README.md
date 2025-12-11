@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0997-find-the-town-judge) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sliding Window
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0287-find-the-duplicate-number) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
