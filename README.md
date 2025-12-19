@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0953-verifying-an-alien-dictionary](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0953-verifying-an-alien-dictionary) |
 | [0992-subarrays-with-k-different-integers](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0997-find-the-town-judge) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0493-reverse-pairs) |
+| [0560-subarray-sum-equals-k](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0953-verifying-an-alien-dictionary](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0953-verifying-an-alien-dictionary) |
 | [0992-subarrays-with-k-different-integers](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0997-find-the-town-judge) |
@@ -188,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0128-longest-consecutive-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
