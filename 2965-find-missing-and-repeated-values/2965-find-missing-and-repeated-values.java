@@ -23,8 +23,8 @@ class Solution {
 
         long sumXY = sqDiff / sumDiff; // x + y
 
-        int repeated = (int) ((sumDiff + sumXY) / 2);
-        int missing = (int) (repeated - sumDiff);
+        int repeated = (int) ((sumXY + sumDiff) / 2);
+        int missing = (int) ((sumXY - sumDiff) / 2);
 
         return new int[] { repeated, missing };
     }
