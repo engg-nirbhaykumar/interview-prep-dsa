@@ -4,43 +4,46 @@ class Solution {
         int high = nums.length - 1;
 
         while (low <= high) {
+
+            // Skip duplicate values from both ends to avoid ambiguity
             while (low < high && nums[low] == nums[low + 1]) {
                 low++;
             }
             while (low < high && nums[high] == nums[high - 1]) {
                 high--;
             }
-            int mid = low + (high - low) / 2; // avoid overflow
 
-            // If mid is the target, return index
+            int mid = low + (high - low) / 2;  // prevent integer overflow
+
+            // Found target
             if (nums[mid] == target) {
                 return true;
             }
 
-            // Check which side is sorted (Left half sorted?)
+            // Determine which half is sorted
+            // LEFT part sorted?
             if (nums[low] <= nums[mid]) {
 
-                // If target lies within sorted left part → shrink right
+                // Target lies in LEFT sorted range?
                 if (nums[low] <= target && target < nums[mid]) {
-                    high = mid - 1;
+                    high = mid - 1;  // shrink right
                 } else {
-                    // otherwise shift to right side
-                    low = mid + 1;
+                    low = mid + 1;   // move to right half
                 }
 
-            } else { // Right half is sorted
+            } else { 
+                // RIGHT part must be sorted
 
-                // if target lies between mid and high → move right
+                // Target lies in RIGHT sorted range?
                 if (nums[mid] < target && target <= nums[high]) {
-                    low = mid + 1;
+                    low = mid + 1;   // move right
                 } else {
-                    // otherwise go to left half
-                    high = mid - 1;
+                    high = mid - 1;  // move left
                 }
             }
         }
 
-        // not found
+        // target not found
         return false;
     }
 }
