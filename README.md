@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0875-koko-eating-bananas) |
 | [0953-verifying-an-alien-dictionary](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0953-verifying-an-alien-dictionary) |
 | [0992-subarrays-with-k-different-integers](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0997-find-the-town-judge) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
