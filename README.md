@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-verifying-an-alien-dictionary](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0953-verifying-an-alien-dictionary) |
 | [0992-subarrays-with-k-different-integers](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0997-find-the-town-judge) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2965-find-missing-and-repeated-values](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/2965-find-missing-and-repeated-values) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Bit Manipulation
 |  |
 | ------- |
