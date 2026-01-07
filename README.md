@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2965-find-missing-and-repeated-values](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/2965-find-missing-and-repeated-values) |
 ## Sliding Window
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## String Matching
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0268-missing-number) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Matrix
 |  |
 | ------- |
