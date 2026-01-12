@@ -30,7 +30,7 @@ class Solution {
             // If we are on a descending slope (nums[mid] > nums[mid + 1])
             // then a peak must lie on the left side (including mid)
             else if (nums[mid] > nums[mid + 1]) {
-                high = mid - 1;
+                high = mid;
             }
             // Otherwise we are on an ascending slope (nums[mid] < nums[mid + 1])
             // which means a peak is guaranteed to lie on the right side
