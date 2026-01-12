@@ -16,11 +16,11 @@ class Solution {
         // Search space is restricted between 1 and n-2
         // because we already checked both boundaries
         int low = 1;
-        int high = n - 1;
+        int high = n - 2;
 
         // Binary search to find a peak position
         // A peak exists because nums[i] != nums[i+1] (based on problem property)
-        while (low < high) {
+        while (low <= high) {
             int mid = low + (high - low) / 2;
 
             // Check if mid is a valid peak (greater than both neighbors)
