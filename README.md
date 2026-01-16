@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0214-shortest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0686-repeated-string-match](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0686-repeated-string-match) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0953-verifying-an-alien-dictionary](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0953-verifying-an-alien-dictionary) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0930-binary-subarrays-with-sum) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0992-subarrays-with-k-different-integers) |
