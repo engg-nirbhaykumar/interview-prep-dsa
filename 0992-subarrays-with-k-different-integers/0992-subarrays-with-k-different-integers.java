@@ -1,39 +1,54 @@
 class Solution {
-    public int subarraysWithKDistinct(int[] nums, int k) {
-        // Count subarrays with exactly k distinct numbers
-        // using the formula:
-        // exactly(k) = atMost(k) - atMost(k - 1)
-        return slidingWindow(nums, k) - slidingWindow(nums, k - 1);
-    }
 
-    // Helper method: counts subarrays with at most k distinct numbers
+    /*
+     * Returns the number of subarrays with AT MOST k distinct elements
+     * Uses variable-size sliding window
+     */
     private int slidingWindow(int[] nums, int k) {
-        int n = nums.length;
-        int left = 0;           // left pointer of sliding window
-        int result = 0;         // total count of valid subarrays
-        Map<Integer, Integer> freqMap = new HashMap<>(); // stores frequency of numbers in window
+        // Map to store frequency of elements in the current window
+        HashMap<Integer, Integer> cMap = new HashMap<>();
 
-        for (int right = 0; right < n; right++) {
-            // Add current element to frequency map
-            freqMap.put(nums[right], freqMap.getOrDefault(nums[right], 0) + 1);
+        int left = 0;     // Left pointer of sliding window
+        int result = 0;   // Stores count of valid subarrays
 
-            // Shrink window if distinct count exceeds k
-            while (freqMap.size() > k) {
-                freqMap.put(nums[left], freqMap.get(nums[left]) - 1);
+        // Right pointer expands the window
+        for (int right = 0; right < nums.length; right++) {
 
-                // Remove element from map when its frequency becomes zero
-                if (freqMap.get(nums[left]) == 0) {
-                    freqMap.remove(nums[left]);
+            // Add current element to the window
+            cMap.put(nums[right], cMap.getOrDefault(nums[right], 0) + 1);
+
+            /*
+             * If number of distinct elements exceeds k,
+             * shrink the window from the left
+             */
+            while (cMap.size() > k) {
+                cMap.put(nums[left], cMap.get(nums[left]) - 1);
+
+                // Remove element completely if frequency becomes zero
+                if (cMap.get(nums[left]) == 0) {
+                    cMap.remove(nums[left]);
                 }
 
-                left++; // move left pointer
+                left++; // Shrink window
             }
 
-            // All subarrays ending at 'right' and starting from any index in [left, right]
-            // are valid because they contain at most k distinct elements
+            /*
+             * Number of valid subarrays ending at index 'right'
+             * = window size = (right - left + 1)
+             */
             result += right - left + 1;
         }
 
         return result;
+    }
+
+    /*
+     * Returns number of subarrays with EXACTLY k distinct elements
+     *
+     * Key Idea:
+     * Exactly K = At Most K - At Most (K - 1)
+     */
+    public int subarraysWithKDistinct(int[] nums, int k) {
+        return slidingWindow(nums, k) - slidingWindow(nums, k - 1);
     }
 }
