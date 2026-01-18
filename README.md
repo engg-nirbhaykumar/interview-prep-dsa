@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0231-power-of-two) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0268-missing-number) |
