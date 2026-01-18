@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0268-missing-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1925-count-square-sum-triples](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1925-count-square-sum-triples) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
@@ -304,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
