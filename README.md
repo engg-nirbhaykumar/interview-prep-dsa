@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0268-missing-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1248-count-number-of-nice-subarrays) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0268-missing-number) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0204-count-primes) |
 | [1925-count-square-sum-triples](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1925-count-square-sum-triples) |
 ## Divide and Conquer
 |  |
@@ -319,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0078-subsets) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
