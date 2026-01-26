@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0076-minimum-window-substring) |
+| [0131-palindrome-partitioning](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0214-shortest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0424-longest-repeating-character-replacement) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0410-split-array-largest-sum) |
 ## Greedy
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0216-combination-sum-iii) |
 ## Number Theory
 |  |
