@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0214-shortest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0686-repeated-string-match) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0953-verifying-an-alien-dictionary](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0953-verifying-an-alien-dictionary) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Hash Table
@@ -206,10 +208,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0846-hand-of-straights) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
