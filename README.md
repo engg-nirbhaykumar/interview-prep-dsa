@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0540-single-element-in-a-sorted-array) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
 |  |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0846-hand-of-straights) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0846-hand-of-straights](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0846-hand-of-straights) |
 | [1552-magnetic-force-between-two-balls](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1552-magnetic-force-between-two-balls) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/2141-maximum-running-time-of-n-computers) |
