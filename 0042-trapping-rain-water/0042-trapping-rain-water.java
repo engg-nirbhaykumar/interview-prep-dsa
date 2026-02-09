@@ -2,38 +2,44 @@ class Solution {
     public int trap(int[] height) {
         int n = height.length;
 
-        // lMax[i] = maximum height from index 0 → i (left side max)
-        int[] lMax = new int[n];
+        int left = 0;              // left pointer
+        int right = n - 1;         // right pointer
 
-        // rMax[i] = maximum height from index i → n-1 (right side max)
-        int[] rMax = new int[n];
+        int leftMax = 0;           // max height seen from left
+        int rightMax = 0;          // max height seen from right
 
-        // First bar’s left max is itself
-        lMax[0] = height[0];
+        int totalWater = 0;
 
-        // Build left max array
-        // At every index, store the highest bar seen so far from the left
-        for (int i = 1; i < n; i++) {
-            lMax[i] = Math.max(lMax[i - 1], height[i]);
+        while (left < right) {
+
+            // If left boundary is smaller, process left side
+            if (height[left] < height[right]) {
+
+                // If current bar is taller than leftMax, update leftMax
+                if (height[left] >= leftMax) {
+                    leftMax = height[left];
+                } else {
+                    // Water trapped = leftMax - current height
+                    totalWater += (leftMax - height[left]);
+                }
+
+                left++;  // move left pointer inward
+            }
+            // Else process right side
+            else {
+
+                // If current bar is taller than rightMax, update rightMax
+                if (height[right] >= rightMax) {
+                    rightMax = height[right];
+                } else {
+                    // Water trapped = rightMax - current height
+                    totalWater += (rightMax - height[right]);
+                }
+
+                right--; // move right pointer inward
+            }
         }
 
-        // Last bar’s right max is itself
-        rMax[n - 1] = height[n - 1];
-
-        // Build right max array
-        // At every index, store the highest bar seen so far from the right
-        for (int i = n - 2; i >= 0; i--) {
-            rMax[i] = Math.max(rMax[i + 1], height[i]);
-        }
-
-        int total = 0; // total trapped water
-
-        // Water trapped at index i =
-        // min(left max, right max) - height[i]
-        for (int i = 0; i < n; i++) {
-            total += (Math.min(lMax[i], rMax[i]) - height[i]);
-        }
-
-        return total;
+        return totalWater;
     }
 }
