@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0268-missing-number) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0023-merge-k-sorted-lists) |
+| [0146-lru-cache](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0355-design-twitter) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Heap (Priority Queue)
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0146-lru-cache) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Depth-First Search
 |  |
@@ -476,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0232-implement-queue-using-stacks) |
