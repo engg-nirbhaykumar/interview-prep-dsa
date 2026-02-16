@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0151-reverse-words-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0214-shortest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0678-valid-parenthesis-string) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0347-top-k-frequent-elements) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0208-implement-trie-prefix-tree) |
 ## Memoization
 |  |
 | ------- |
@@ -498,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0295-find-median-from-data-stream) |
