@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1552-magnetic-force-between-two-balls) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Sorting
 |  |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1707-maximum-xor-with-an-element-from-array) |
 ## Memoization
 |  |
 | ------- |
