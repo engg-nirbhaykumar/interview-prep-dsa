@@ -458,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0146-lru-cache](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0146-lru-cache) |
+| [0237-delete-node-in-a-linked-list](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0237-delete-node-in-a-linked-list) |
 | [0355-design-twitter](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0460-lfu-cache) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
