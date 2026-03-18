@@ -1,31 +1,29 @@
 class Solution {
-
-    // Recursive helper function
-    // 'curr' -> current node being processed
-    // 'prev' -> previous node (used to reverse the link)
-    private ListNode reverseListRec(ListNode curr, ListNode prev) {
-
-        // Base case:
-        // If we reach end of list, 'prev' will be the new head
-        if (curr == null)
-            return prev;
-
-        // Store next node before breaking the link
-        ListNode next = curr.next;
-
-        // Reverse the current node's pointer
-        curr.next = prev;
-
-        // Move forward in the list:
-        // next becomes new curr
-        // curr becomes new prev
-        return reverseListRec(next, curr);
-    }
-
     public ListNode reverseList(ListNode head) {
 
-        // Start recursion with:
-        // curr = head, prev = null
-        return reverseListRec(head, null);
+        // 'curr' will traverse the list
+        ListNode curr = head;
+
+        // 'prev' will store the previous node (initially null)
+        ListNode prev = null;
+
+        // Traverse the entire linked list
+        while (curr != null) {
+
+            // Store next node before breaking the link
+            ListNode next = curr.next;
+
+            // Reverse the current node's pointer
+            curr.next = prev;
+
+            // Move 'prev' one step forward
+            prev = curr;
+
+            // Move 'curr' one step forward
+            curr = next;
+        }
+
+        // At the end, 'prev' will be the new head of reversed list
+        return prev;
     }
 }
