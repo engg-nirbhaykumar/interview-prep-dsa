@@ -1,27 +1,26 @@
 class Solution {
     public ListNode middleNode(ListNode head) {
 
-        // Step 1: Count total number of nodes in the linked list
-        int count = 0;
-        ListNode temp = head;
+        // Initialize two pointers:
+        // slow -> moves 1 step at a time
+        // fast -> moves 2 steps at a time
+        ListNode slow = head;
+        ListNode fast = head;
 
-        // Traverse the list to calculate length
-        while (temp != null) {
-            count++;
-            temp = temp.next;
+        // Traverse the list
+        // fast reaches end faster than slow
+        while (fast != null && fast.next != null) {
+
+            // Move slow by 1 step
+            slow = slow.next;
+
+            // Move fast by 2 steps
+            fast = fast.next.next;
         }
 
-        // Step 2: Find the middle index
-        // For even length, this gives the second middle node (as required in LeetCode)
-        int midIdx = count / 2;
-
-        // Step 3: Traverse again to reach the middle node
-        temp = head;
-        for (int i = 0; i < midIdx; i++) {
-            temp = temp.next;
-        }
-
-        // Step 4: Return the middle node
-        return temp;
+        // When fast reaches the end:
+        // slow will be at the middle
+        // (for even length, it points to the second middle node)
+        return slow;
     }
 }
