@@ -1,28 +1,29 @@
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
 
-        // Step 1: Store all nodes of list B in a HashSet
-        // This allows O(1) lookup to check if a node exists in list B
-        Set<ListNode> nodesInB = new HashSet<>();
-
-        ListNode bCrawler = headB;
-        while (bCrawler != null) {
-            nodesInB.add(bCrawler); // store reference of each node
-            bCrawler = bCrawler.next;
+        // Edge case: if either list is empty, no intersection possible
+        if (headA == null || headB == null) {
+            return null;
         }
 
-        // Step 2: Traverse list A and check if any node exists in the set
+        // Initialize two pointers
         ListNode aCrawler = headA;
-        while (aCrawler != null) {
+        ListNode bCrawler = headB;
 
-            // If current node of A is present in set → intersection found
-            if (nodesInB.contains(aCrawler))
-                return aCrawler;
+        // Traverse both lists
+        // When a pointer reaches end, redirect it to the other list's head
+        while (aCrawler != bCrawler) {
 
-            aCrawler = aCrawler.next;
+            // If aCrawler reaches end → jump to headB
+            // Else move forward
+            aCrawler = (aCrawler == null) ? headB : aCrawler.next;
+
+            // If bCrawler reaches end → jump to headA
+            // Else move forward
+            bCrawler = (bCrawler == null) ? headA : bCrawler.next;
         }
 
-        // Step 3: No intersection found
-        return null;
+        // Either both meet at intersection node OR both become null (no intersection)
+        return aCrawler;
     }
 }
