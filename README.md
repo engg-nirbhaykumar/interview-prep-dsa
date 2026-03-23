@@ -490,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0355-design-twitter) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0460-lfu-cache](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0460-lfu-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -509,12 +510,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0146-lru-cache) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0460-lfu-cache](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0460-lfu-cache) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0079-word-search) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Trie
 |  |
 | ------- |
