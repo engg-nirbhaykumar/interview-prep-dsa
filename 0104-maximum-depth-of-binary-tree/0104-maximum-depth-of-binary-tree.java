@@ -1,25 +1,47 @@
 class Solution {
-
-    // Helper recursive function to calculate depth
-    private int solve(TreeNode root) {
-
-        // Base case: if node is null, depth = 0
-        if (root == null)
-            return 0;
-
-        // Recursively find depth of left subtree
-        int left = solve(root.left);
-
-        // Recursively find depth of right subtree
-        int right = solve(root.right);
-
-        // Current node depth = 1 (current node)
-        // + maximum of left and right subtree depths
-        return 1 + Math.max(left, right);
-    }
-
     public int maxDepth(TreeNode root) {
-        // Call recursive function starting from root
-        return solve(root);
+
+        // Initialize depth to 0
+        int depth = 0;
+
+        // Edge case: if tree is empty
+        if (root == null)
+            return depth;
+
+        // Queue for level order traversal (BFS)
+        Queue<TreeNode> q = new LinkedList<>();
+
+        // Start with root node
+        q.offer(root);
+
+        // Process level by level
+        while (!q.isEmpty()) {
+
+            // Number of nodes at current level
+            int levelSize = q.size();
+
+            // Process all nodes of this level
+            for (int i = 0; i < levelSize; i++) {
+
+                // Remove node from front of queue
+                TreeNode curr = q.poll();
+
+                // Add left child to queue (next level)
+                if (curr.left != null) {
+                    q.offer(curr.left);
+                }
+
+                // Add right child to queue (next level)
+                if (curr.right != null) {
+                    q.offer(curr.right);
+                }
+            }
+
+            // After processing one full level, increment depth
+            depth++;
+        }
+
+        // Final depth = number of levels in tree
+        return depth;
     }
 }
