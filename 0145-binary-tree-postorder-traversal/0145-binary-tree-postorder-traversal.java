@@ -1,30 +1,47 @@
 class Solution {
-    // This list will store the final postorder traversal result
-    List<Integer> result = new ArrayList<>();
+    // One-Line Memory Trick
+    // Queue → add + poll (FIFO)
+    // Stack → push + pop (LIFO)
 
-    // Helper recursive function to perform postorder traversal
-    private void solve(TreeNode root) {
-        // Base case: if node is null, simply return
-        if (root == null) {
-            return;
-        }
+    // LinkedList used so we can efficiently add at front (addFirst)
+    LinkedList<Integer> result;
 
-        // Step 1: Traverse the left subtree
-        solve(root.left);
-
-        // Step 2: Traverse the right subtree
-        solve(root.right);
-
-        // Step 3: Process the current node (add value to result)
-        // This is why it's called POST-order (Left -> Right -> Root)
-        result.add(root.val);
-    }
+    // Deque used as a stack
+    Deque<TreeNode> st;
 
     public List<Integer> postorderTraversal(TreeNode root) {
-        // Call the recursive helper function starting from root
-        solve(root);
+        result = new LinkedList<>();
+        st = new LinkedList<>();
 
-        // Return the final postorder traversal list
+        // Edge case: empty tree
+        if (root == null)
+            return result;
+
+        // Start with root node
+        st.push(root);
+
+        while (!st.isEmpty()) {
+            // Pop the top node (LIFO)
+            TreeNode curr = st.pop();
+
+            // Add current node at the beginning
+            // This reverses the order to achieve postorder
+            result.addFirst(curr.val);
+
+            // IMPORTANT:
+            // Push left first, then right
+            // So that right is processed before left (due to stack)
+            // Final order becomes: Left → Right → Root
+            if (curr.left != null) {
+                st.push(curr.left);
+            }
+
+            if (curr.right != null) {
+                st.push(curr.right);
+            }
+        }
+
+        // Return the final postorder traversal
         return result;
     }
 }
