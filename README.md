@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2965-find-missing-and-repeated-values](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/2965-find-missing-and-repeated-values) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Math
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Trie
 |  |
 | ------- |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Design
 |  |
 | ------- |
@@ -626,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Data Stream
 |  |
 | ------- |
@@ -668,4 +672,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 <!---LeetCode Topics End-->
