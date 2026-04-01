@@ -541,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0543-diameter-of-binary-tree) |
@@ -579,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0222-count-complete-tree-nodes) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0662-maximum-width-of-binary-tree) |
@@ -617,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0222-count-complete-tree-nodes) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0662-maximum-width-of-binary-tree) |
