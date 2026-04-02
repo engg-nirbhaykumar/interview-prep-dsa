@@ -1,35 +1,31 @@
 class Solution {
-    
-    // List to store inorder traversal result
     List<Integer> result = new ArrayList<>();
-
-    // Helper recursive function
-    private void solve(TreeNode root) {
-        
-        // Base case: if node is null, stop recursion
-        if (root == null) {
-            return;
-        }
-
-        // Step 1: Traverse left subtree
-        solve(root.left);
-
-        // Step 2: Visit root (Inorder → Left, Root, Right)
-        result.add(root.val);
-
-        // Step 3: Traverse right subtree
-        solve(root.right);
-    }
+    Stack<TreeNode> st = new Stack<>();
 
     public List<Integer> inorderTraversal(TreeNode root) {
-        
-        // Clear previous results (important if object is reused)
+
+        // Clear result in case object is reused
         result.clear();
 
-        // Start recursive traversal from root
-        solve(root);
+        TreeNode curr = root;
 
-        // Return final inorder list
+        // Traverse until all nodes are processed
+        while (curr != null || !st.isEmpty()) {
+
+            // Step 1: Push all left nodes
+            while (curr != null) {
+                st.push(curr); // push current node
+                curr = curr.left; // move left
+            }
+
+            // Step 2: Process node
+            curr = st.pop();
+            result.add(curr.val);
+
+            // Step 3: Move to right subtree
+            curr = curr.right;
+        }
+
         return result;
     }
 }
