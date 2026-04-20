@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1552-magnetic-force-between-two-balls) |
+| [1631-path-with-minimum-effort](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1631-path-with-minimum-effort) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1552-magnetic-force-between-two-balls) |
+| [1631-path-with-minimum-effort](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1631-path-with-minimum-effort) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1901-find-a-peak-element-ii) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1901-find-a-peak-element-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/2965-find-missing-and-repeated-values) |
 ## Graph
@@ -556,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1631-path-with-minimum-effort](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1631-path-with-minimum-effort) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
@@ -601,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1020-number-of-enclaves) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1631-path-with-minimum-effort) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Trie
 |  |
@@ -786,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1631-path-with-minimum-effort) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Iterator
 |  |
@@ -799,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
