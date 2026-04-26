@@ -33,11 +33,8 @@ class Solution {
 
         int n = triangle.size();
 
-        // DP table initialized with -1 (means not computed yet)
+        // Switched to Wrapper Int type as with primitive it gives TLE
         Integer[][] dp = new Integer[n][n];
-        // for (int[] d : dp) {
-        //     Arrays.fill(d, -1);
-        // }
 
         // Start from the top of the triangle (0,0)
         return solve(0, 0, n, dp, triangle);
