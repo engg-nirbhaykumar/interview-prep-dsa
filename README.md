@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0721-accounts-merge) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0953-verifying-an-alien-dictionary](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0953-verifying-an-alien-dictionary) |
+| [1092-shortest-common-supersequence](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0907-sum-of-subarray-minimums) |
+| [1092-shortest-common-supersequence](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
