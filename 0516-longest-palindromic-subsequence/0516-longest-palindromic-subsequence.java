@@ -1,82 +1,65 @@
 class Solution {
 
     // Recursive + Memoization function
-    // dp[i][j] = LCS length starting from index i in s1 and j in s2
-    private int solve(String s1, String s2,
-                      int i, int j,
-                      int n, int m,
-                      Integer[][] dp) {
+    // s = input string
+    // i = starting index
+    // j = ending index
+    // dp[i][j] stores Longest Palindromic Subsequence
+    // length in substring s[i...j]
+    private int solve(String s, int i, int j, int[][] dp) {
 
         // Base Case:
-        // If any string ends
-        if (i >= n || j >= m)
+        // Invalid substring
+        if (i > j)
             return 0;
 
-        // Already solved
-        if (dp[i][j] != null)
+        // Single character is palindrome of length 1
+        if (i == j)
+            return 1;
+
+        // If already solved, return stored answer
+        if (dp[i][j] != -1)
             return dp[i][j];
 
-        // If characters match
-        if (s1.charAt(i) == s2.charAt(j)) {
+        // If both end characters match
+        if (s.charAt(i) == s.charAt(j)) {
 
+            // Include both characters
+            // Move inward
             return dp[i][j] =
-                    1 + solve(s1, s2,
-                              i + 1, j + 1,
-                              n, m, dp);
+                    2 + solve(s, i + 1, j - 1, dp);
+
+        } else {
+
+            // Characters do not match
+
+            // Option 1: Skip left character
+            int skipLeft =
+                    solve(s, i + 1, j, dp);
+
+            // Option 2: Skip right character
+            int skipRight =
+                    solve(s, i, j - 1, dp);
+
+            // Take maximum
+            return dp[i][j] =
+                    Math.max(skipLeft, skipRight);
         }
-
-        // Skip one character from either string
-        int skipS1 = solve(s1, s2,
-                           i + 1, j,
-                           n, m, dp);
-
-        int skipS2 = solve(s1, s2,
-                           i, j + 1,
-                           n, m, dp);
-
-        return dp[i][j] =
-                Math.max(skipS1, skipS2);
-    }
-
-    // LCS function
-    private int longestCommonSubsequence(String text1, String text2) {
-
-        int n = text1.length();
-        int m = text2.length();
-
-        Integer[][] dp = new Integer[n][m];
-
-        return solve(text1, text2,
-                     0, 0,
-                     n, m, dp);
-    }
-
-    // Reverse string correctly
-    private String reverse(String s) {
-
-        char[] arr = s.toCharArray();
-
-        int i = 0;
-        int j = arr.length - 1;
-
-        while (i < j) {
-            char temp = arr[i];
-            arr[i] = arr[j];
-            arr[j] = temp;
-
-            i++;
-            j--;
-        }
-
-        return new String(arr);
     }
 
     public int longestPalindromeSubseq(String s) {
 
-        // Reverse string
-        String s2 = reverse(s);
+        int n = s.length();
 
-        // LPS = LCS(original, reversed)
-        return longestCommonSubsequence(s, s2);
+        // dp[i][j] = answer for substring i to j
+        int[][] dp = new int[n][n];
+
+        // Fill with -1 (unvisited state)
+        for (int[] row : dp) {
+            Arrays.fill(row, -1);
+        }
+
+        // Solve for complete string
+        return solve(s, 0, n - 1, dp);
     }
 }
