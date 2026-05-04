@@ -1,11 +1,13 @@
 class Solution {
 
     private Boolean[][] dp;
+    int n;
+    int m;
 
     private boolean solve(String s, String p, int i, int j) {
 
-        int n = s.length();
-        int m = p.length();
+        n = s.length();
+        m = p.length();
 
         if (i == n && j == m)
             return true;
@@ -45,7 +47,9 @@ class Solution {
     }
 
     public boolean isMatch(String s, String p) {
-        dp = new Boolean[s.length() + 1][p.length() + 1];
+        n = s.length();
+        m = p.length();
+        dp = new Boolean[n + 1][m + 1];
         return solve(s, p, 0, 0);
     }
 }
