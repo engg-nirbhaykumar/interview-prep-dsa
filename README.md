@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-verifying-an-alien-dictionary](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0953-verifying-an-alien-dictionary) |
 | [1048-longest-string-chain](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1092-shortest-common-supersequence) |
+| [1106-parsing-a-boolean-expression](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1106-parsing-a-boolean-expression) |
 | [1143-longest-common-subsequence](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1106-parsing-a-boolean-expression](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1106-parsing-a-boolean-expression) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Hash Table
 |  |
@@ -609,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0509-fibonacci-number) |
+| [1106-parsing-a-boolean-expression](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1106-parsing-a-boolean-expression) |
 | [1922-count-good-numbers](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1922-count-good-numbers) |
 ## Backtracking
 |  |
