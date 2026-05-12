@@ -8,11 +8,11 @@ class Solution {
 
         // Base case:
         // If index goes beyond last house, no money can be robbed
-        if (i >= n) 
+        if (i >= n)
             return 0;
 
         // Return already computed result to avoid recomputation
-        if (dp[i] != -1) 
+        if (dp[i] != -1)
             return dp[i];
 
         // Option 1: Rob current house and skip next house
