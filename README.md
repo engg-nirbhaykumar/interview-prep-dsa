@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1248-count-number-of-nice-subarrays) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1143-longest-common-subsequence) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0846-hand-of-straights](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0846-hand-of-straights) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -512,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0846-hand-of-straights) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1048-longest-string-chain) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1552-magnetic-force-between-two-balls](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1552-magnetic-force-between-two-balls) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
