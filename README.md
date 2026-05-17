@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0424-longest-repeating-character-replacement) |
+| [0474-ones-and-zeroes](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0678-valid-parenthesis-string) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0455-assign-cookies) |
+| [0474-ones-and-zeroes](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0494-target-sum) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0435-non-overlapping-intervals) |
+| [0474-ones-and-zeroes](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0516-longest-palindromic-subsequence) |
