@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0827-making-a-large-island) |
 | [0846-hand-of-straights](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0875-koko-eating-bananas) |
+| [0879-profitable-schemes](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0879-profitable-schemes) |
 | [0904-fruit-into-baskets](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0930-binary-subarrays-with-sum) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0879-profitable-schemes](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0879-profitable-schemes) |
 | [0907-sum-of-subarray-minimums](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0907-sum-of-subarray-minimums) |
 | [1043-partition-array-for-maximum-sum](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1048-longest-string-chain) |
