@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [0953-verifying-an-alien-dictionary](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0953-verifying-an-alien-dictionary) |
+| [0983-minimum-cost-for-tickets](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0983-minimum-cost-for-tickets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0997-find-the-town-judge) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0879-profitable-schemes](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0879-profitable-schemes) |
 | [0907-sum-of-subarray-minimums](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0907-sum-of-subarray-minimums) |
+| [0983-minimum-cost-for-tickets](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0983-minimum-cost-for-tickets) |
 | [1043-partition-array-for-maximum-sum](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1049-last-stone-weight-ii) |
