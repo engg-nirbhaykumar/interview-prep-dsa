@@ -33,7 +33,7 @@ class Solution {
             maxLen = Math.max(maxLen, dp[i]);
             // Update global maximum LIS length after processing index i
         }
-        
+
         return maxLen; // Final answer: longest increasing subsequence length
     }
 }
