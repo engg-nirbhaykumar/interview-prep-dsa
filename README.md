@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1901-find-a-peak-element-ii) |
+| [1937-maximum-number-of-points-with-cost](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1937-maximum-number-of-points-with-cost) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1937-maximum-number-of-points-with-cost](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Greedy
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1631-path-with-minimum-effort](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1901-find-a-peak-element-ii) |
+| [1937-maximum-number-of-points-with-cost](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1937-maximum-number-of-points-with-cost) |
 | [2965-find-missing-and-repeated-values](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/2965-find-missing-and-repeated-values) |
 ## Graph
 |  |
