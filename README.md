@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0930-binary-subarrays-with-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0931-minimum-falling-path-sum) |
 | [0953-verifying-an-alien-dictionary](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0953-verifying-an-alien-dictionary) |
 | [0983-minimum-cost-for-tickets](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0983-minimum-cost-for-tickets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0992-subarrays-with-k-different-integers) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0879-profitable-schemes](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0879-profitable-schemes) |
 | [0907-sum-of-subarray-minimums](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0907-sum-of-subarray-minimums) |
+| [0931-minimum-falling-path-sum](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0983-minimum-cost-for-tickets) |
 | [1027-longest-arithmetic-subsequence](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1027-longest-arithmetic-subsequence) |
 | [1043-partition-array-for-maximum-sum](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1043-partition-array-for-maximum-sum) |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0827-making-a-large-island) |
+| [0931-minimum-falling-path-sum](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1091-shortest-path-in-binary-matrix) |
