@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0542-01-matrix) |
+| [0546-remove-boxes](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0546-remove-boxes) |
 | [0560-subarray-sum-equals-k](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0646-maximum-length-of-pair-chain](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0542-01-matrix) |
+| [0546-remove-boxes](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0546-remove-boxes) |
 | [0583-delete-operation-for-two-strings](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -786,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0509-fibonacci-number) |
+| [0546-remove-boxes](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0546-remove-boxes) |
 ## Quickselect
 |  |
 | ------- |
