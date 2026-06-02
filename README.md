@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0368-largest-divisible-subset) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0343-integer-break](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0343-integer-break) |
 | [0354-russian-doll-envelopes](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0368-largest-divisible-subset) |
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0240-search-a-2d-matrix-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0778-swim-in-rising-water) |
@@ -757,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0547-number-of-provinces) |
@@ -790,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0139-word-break) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0509-fibonacci-number](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0509-fibonacci-number) |
 | [0546-remove-boxes](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0546-remove-boxes) |
 ## Quickselect
@@ -954,6 +959,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -997,6 +1003,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0785-is-graph-bipartite) |
@@ -1011,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0802-find-eventual-safe-states](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0802-find-eventual-safe-states) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
