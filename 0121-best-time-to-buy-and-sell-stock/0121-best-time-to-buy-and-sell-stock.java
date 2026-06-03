@@ -1,28 +1,31 @@
 class Solution {
     public int maxProfit(int[] prices) {
-        // Track the minimum price seen so far (best day to buy)
-        int minPrice = Integer.MAX_VALUE;
 
-        // Track the maximum profit achievable
+        // maxProfit will store the maximum difference (sell - buy)
+        // Initialize to 0 because minimum valid profit is 0 (no transaction)
         int maxProfit = 0;
+
+        // minPrice keeps track of the smallest price seen so far
+        int minPrice = Integer.MAX_VALUE;
 
         // Iterate through each day's price
         for (int price : prices) {
 
-            // If current price is lower than any we've seen,
-            // update minPrice (better buying opportunity)
+            // If current price is smaller than the smallest seen so far,
+            // update minPrice to this new lowest value (best day to buy)
             if (price < minPrice) {
                 minPrice = price;
             } else {
-                // Otherwise, calculate profit if we sell today
+
+                // Otherwise, calculate profit by selling today (price - minPrice)
                 int profit = price - minPrice;
 
-                // Update max profit if this is the best so far
+                // Update maxProfit if today's profit is better
                 maxProfit = Math.max(maxProfit, profit);
             }
         }
 
-        // Return the best profit found (0 if no profit possible)
+        // Return the maximum profit we can make from one buy-sell transaction
         return maxProfit;
     }
 }
