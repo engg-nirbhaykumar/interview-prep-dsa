@@ -3,7 +3,7 @@ class Solution {
         int n = nums.length;
 
         // If the array has 0 or 1 elements, it is already unique
-        if (n < 2)
+        if (n <= 1)
             return n;
 
         // 'index' points to the position where the next unique element should be placed.
