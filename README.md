@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0334-increasing-triplet-subsequence](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0368-largest-divisible-subset) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0135-candy) |
+| [0334-increasing-triplet-subsequence](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0455-assign-cookies) |
