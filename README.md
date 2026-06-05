@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0516-longest-palindromic-subsequence) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0876-middle-of-the-linked-list) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0343-integer-break) |
 | [0354-russian-doll-envelopes](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0368-largest-divisible-subset) |
+| [0392-is-subsequence](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0435-non-overlapping-intervals) |
