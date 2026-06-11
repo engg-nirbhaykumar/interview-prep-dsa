@@ -424,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0338-counting-bits](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0343-integer-break) |
 | [0354-russian-doll-envelopes](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0368-largest-divisible-subset) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0338-counting-bits) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0645-set-mismatch](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0645-set-mismatch) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1707-maximum-xor-with-an-element-from-array) |
