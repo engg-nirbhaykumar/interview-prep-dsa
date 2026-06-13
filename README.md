@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0706-design-hashmap](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0706-design-hashmap) |
 | [0721-accounts-merge](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0740-delete-and-earn) |
 | [0846-hand-of-straights](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0846-hand-of-straights) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0704-binary-search) |
+| [0706-design-hashmap](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0706-design-hashmap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0733-flood-fill) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0214-shortest-palindrome) |
+| [0706-design-hashmap](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0706-design-hashmap) |
 | [1392-longest-happy-prefix](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1392-longest-happy-prefix) |
 ## Binary Search
 |  |
@@ -768,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0355-design-twitter) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0460-lfu-cache](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0460-lfu-cache) |
+| [0706-design-hashmap](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -914,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0706-design-hashmap](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0901-online-stock-span) |
 ## Binary Search Tree
 |  |
