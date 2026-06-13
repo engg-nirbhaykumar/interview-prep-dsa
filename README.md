@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0424-longest-repeating-character-replacement) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0355-design-twitter) |
+| [0387-first-unique-character-in-a-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0409-longest-palindrome) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0424-longest-repeating-character-replacement) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [1657-determine-if-two-strings-are-close](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1657-determine-if-two-strings-are-close) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -995,6 +998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0387-first-unique-character-in-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
