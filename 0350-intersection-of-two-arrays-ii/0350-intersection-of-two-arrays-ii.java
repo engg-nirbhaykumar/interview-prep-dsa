@@ -1,31 +1,27 @@
 class Solution {
     public int[] intersect(int[] nums1, int[] nums2) {
 
-        Arrays.sort(nums1);
-        Arrays.sort(nums2);
+        Map<Integer, Integer> freq = new HashMap<>();
+
+        // Count frequencies in nums1
+        for (int num : nums1) {
+            freq.put(num, freq.getOrDefault(num, 0) + 1);
+        }
 
         List<Integer> result = new ArrayList<>();
 
-        int i = 0, j = 0;
-
-        while (i < nums1.length && j < nums2.length) {
-
-            if (nums1[i] == nums2[j]) {
-                result.add(nums1[i]);
-                i++;
-                j++;
-            }
-            else if (nums1[i] < nums2[j]) {
-                i++;
-            }
-            else {
-                j++;
+        // Find common elements
+        for (int num : nums2) {
+            if (freq.getOrDefault(num, 0) > 0) {
+                result.add(num);
+                freq.put(num, freq.get(num) - 1);
             }
         }
 
+        // Convert List<Integer> to int[]
         int[] ans = new int[result.size()];
-        for (int k = 0; k < result.size(); k++) {
-            ans[k] = result.get(k);
+        for (int i = 0; i < result.size(); i++) {
+            ans[i] = result.get(i);
         }
 
         return ans;
