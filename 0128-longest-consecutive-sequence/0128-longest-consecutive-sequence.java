@@ -1,8 +1,8 @@
 class Solution {
     public int longestConsecutive(int[] nums) {
 
-        // HashSet to store all unique numbers for O(1) lookup
-        HashSet<Integer> seen = new HashSet<>();
+        // Set to store all unique numbers for O(1) lookup
+        Set<Integer> seen = new HashSet<>();
 
         // Add all numbers to the set
         for (int num : nums) {
