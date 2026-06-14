@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0686-repeated-string-match) |
 | [0721-accounts-merge](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0721-accounts-merge) |
+| [0767-reorganize-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0953-verifying-an-alien-dictionary](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0953-verifying-an-alien-dictionary) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0706-design-hashmap) |
 | [0721-accounts-merge](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0740-delete-and-earn) |
+| [0767-reorganize-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0904-fruit-into-baskets) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [0767-reorganize-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0767-reorganize-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1512-number-of-good-pairs) |
@@ -522,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0767-reorganize-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0846-hand-of-straights) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -641,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0721-accounts-merge) |
+| [0767-reorganize-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0846-hand-of-straights) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1048-longest-string-chain) |
@@ -823,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0743-network-delay-time) |
+| [0767-reorganize-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0767-reorganize-string) |
 | [0778-swim-in-rising-water](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1631-path-with-minimum-effort) |
