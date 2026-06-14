@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0706-design-hashmap](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0706-design-hashmap) |
 | [0721-accounts-merge](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0740-delete-and-earn) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0646-maximum-length-of-pair-chain) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0706-design-hashmap) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0646-maximum-length-of-pair-chain) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0678-valid-parenthesis-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -826,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0355-design-twitter) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0767-reorganize-string) |
