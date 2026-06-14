@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0516-longest-palindromic-subsequence) |
+| [0535-encode-and-decode-tinyurl](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0535-encode-and-decode-tinyurl) |
 | [0583-delete-operation-for-two-strings](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0680-valid-palindrome-ii) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0460-lfu-cache](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0496-next-greater-element-i) |
+| [0535-encode-and-decode-tinyurl](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0214-shortest-palindrome) |
+| [0535-encode-and-decode-tinyurl](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0535-encode-and-decode-tinyurl) |
 | [0706-design-hashmap](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0706-design-hashmap) |
 | [1392-longest-happy-prefix](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1392-longest-happy-prefix) |
 ## Binary Search
@@ -951,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0460-lfu-cache) |
+| [0535-encode-and-decode-tinyurl](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0535-encode-and-decode-tinyurl) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0706-design-hashmap](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0901-online-stock-span) |
