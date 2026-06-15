@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0686-repeated-string-match) |
 | [0721-accounts-merge](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0767-reorganize-string) |
+| [0792-number-of-matching-subsequences](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0792-number-of-matching-subsequences) |
 | [0796-rotate-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0953-verifying-an-alien-dictionary](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0953-verifying-an-alien-dictionary) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0740-delete-and-earn) |
 | [0767-reorganize-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0767-reorganize-string) |
+| [0792-number-of-matching-subsequences](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0792-number-of-matching-subsequences) |
 | [0846-hand-of-straights](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0904-fruit-into-baskets) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0778-swim-in-rising-water) |
+| [0792-number-of-matching-subsequences](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0792-number-of-matching-subsequences) |
 | [0827-making-a-large-island](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0827-making-a-large-island) |
 | [0846-hand-of-straights](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0875-koko-eating-bananas) |
@@ -489,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0792-number-of-matching-subsequences](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0792-number-of-matching-subsequences) |
 | [0879-profitable-schemes](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0879-profitable-schemes) |
 | [0907-sum-of-subarray-minimums](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0931-minimum-falling-path-sum) |
@@ -580,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0778-swim-in-rising-water) |
+| [0792-number-of-matching-subsequences](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0792-number-of-matching-subsequences) |
 | [0875-koko-eating-bananas](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -649,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0767-reorganize-string) |
+| [0792-number-of-matching-subsequences](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0792-number-of-matching-subsequences) |
 | [0846-hand-of-straights](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0846-hand-of-straights) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1048-longest-string-chain) |
@@ -898,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0792-number-of-matching-subsequences](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0792-number-of-matching-subsequences) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1707-maximum-xor-with-an-element-from-array) |
 ## Memoization
 |  |
