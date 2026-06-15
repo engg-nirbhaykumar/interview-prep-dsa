@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1392-longest-happy-prefix) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1657-determine-if-two-strings-are-close](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1657-determine-if-two-strings-are-close) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1512-number-of-good-pairs](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1512-number-of-good-pairs) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1657-determine-if-two-strings-are-close) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1931-painting-a-grid-with-three-different-colors](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1931-painting-a-grid-with-three-different-colors) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -623,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0645-set-mismatch) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -766,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Recursion
 |  |
