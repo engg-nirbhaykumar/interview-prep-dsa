@@ -18,16 +18,20 @@ class Solution {
         // Ensure each frequency is strictly less than the frequency on its right
         for (int i = 24; i >= 0 && freq[i] > 0; i--) {
 
-            // Store the original frequency before modification
-            int oldVal = freq[i];
+            if (freq[i] >= freq[i + 1]) {
 
-            // The maximum allowed value for the current frequency is:
-            // (next frequency - 1) to maintain uniqueness
-            //
-            // Use Math.max(0, ...) because frequencies cannot be negative
-            freq[i] = Math.min(freq[i], Math.max(0, freq[i + 1] - 1));
-            // Add the number of deletions performed
-            result += oldVal - freq[i];
+                // Store the original frequency before modification
+                int oldVal = freq[i];
+
+                // The maximum allowed value for the current frequency is:
+                // (next frequency - 1) to maintain uniqueness
+                //
+                // Use Math.max(0, ...) because frequencies cannot be negative
+                freq[i] = Math.max(0, freq[i + 1] - 1);
+
+                // Add the number of deletions performed
+                result += oldVal - freq[i];
+            }
         }
 
         return result;
