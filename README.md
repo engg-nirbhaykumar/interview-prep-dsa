@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0767-reorganize-string) |
 | [0792-number-of-matching-subsequences](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0792-number-of-matching-subsequences) |
 | [0796-rotate-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0953-verifying-an-alien-dictionary](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0953-verifying-an-alien-dictionary) |
 | [1048-longest-string-chain](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1048-longest-string-chain) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0876-middle-of-the-linked-list) |
 | [1048-longest-string-chain](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1048-longest-string-chain) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -732,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Binary Indexed Tree
