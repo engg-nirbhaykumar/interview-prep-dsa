@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0686-repeated-string-match) |
+| [0696-count-binary-substrings](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0696-count-binary-substrings) |
 | [0721-accounts-merge](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0767-reorganize-string) |
 | [0792-number-of-matching-subsequences](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0792-number-of-matching-subsequences) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0696-count-binary-substrings) |
 | [0844-backspace-string-compare](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0977-squares-of-a-sorted-array) |
