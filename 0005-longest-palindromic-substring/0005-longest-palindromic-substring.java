@@ -27,7 +27,7 @@ class Solution {
     }
 
     // Helper method to check whether s[left...right] is a palindrome
-    private boolean isPalindrome(String s, int left, int right) {
+    private boolean isPalindrome(String s, int left, int right) { 
 
         // Compare characters from both ends moving inward
         while (left < right) {
