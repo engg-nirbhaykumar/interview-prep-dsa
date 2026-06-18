@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0535-encode-and-decode-tinyurl](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0535-encode-and-decode-tinyurl) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0680-valid-palindrome-ii) |
