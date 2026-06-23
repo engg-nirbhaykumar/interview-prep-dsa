@@ -25,7 +25,9 @@ class Solution {
 
             // If this complement exists, it means there are subarrays
             // ending at current index whose sum is k
-            count += prefixSumMap.getOrDefault(complement, 0);
+            if (prefixSumMap.containsKey(complement)) {
+                count += prefixSumMap.get(complement);
+            }
 
             // Store/update the current prefix sum in the map
             prefixSumMap.put(sum, prefixSumMap.getOrDefault(sum, 0) + 1);
