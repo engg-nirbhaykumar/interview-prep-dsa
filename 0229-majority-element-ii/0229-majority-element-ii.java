@@ -4,23 +4,12 @@ class Solution {
         List<Integer> result = new ArrayList<>();
 
         // Step 1: Find potential majority candidates using Boyer–Moore Voting
-        int candidate1 = 0, candidate2 = 0;  // Possible majority elements
-        int count1 = 0, count2 = 0;          // Counters for candidates
+        int candidate1 = 0, candidate2 = 0; // Possible majority elements
+        int count1 = 0, count2 = 0; // Counters for candidates
 
         for (int num : nums) {
-
-            // If current number matches first candidate, increase its count
-            if (candidate1 == num) {
-                count1++;
-            }
-
-            // If current number matches second candidate, increase its count
-            else if (candidate2 == num) {
-                count2++;
-            }
-
             // If first candidate slot is empty, assign current number
-            else if (count1 == 0 && num != candidate2) {
+            if (count1 == 0 && num != candidate2) {
                 candidate1 = num;
                 count1 = 1;
             }
@@ -29,6 +18,16 @@ class Solution {
             else if (count2 == 0 && num != candidate1) {
                 candidate2 = num;
                 count2 = 1;
+            }
+
+            // If current number matches first candidate, increase its count
+            else if (candidate1 == num) {
+                count1++;
+            }
+
+            // If current number matches second candidate, increase its count
+            else if (candidate2 == num) {
+                count2++;
             }
 
             // Current number matches neither candidate → cancel both counts
