@@ -29,6 +29,7 @@ class Solution {
         // Binary search between 1 banana/hr and max pile size bananas/hr
         int low = 1;
         int high = getMax(piles);
+        int ans = high;
 
         // Binary search to find minimum valid speed
         while (low < high) {
@@ -36,6 +37,7 @@ class Solution {
 
             // If she can finish with speed mid, try slower speed on left side
             if (canFinish(piles, h, mid)) {
+                ans = mid;
                 high = mid;
             }
             // Else, speed must be increased (search right side)
@@ -45,6 +47,6 @@ class Solution {
         }
 
         // low == high holds the minimum eating speed required
-        return low;
+        return ans;
     }
 }
