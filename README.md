@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1512-number-of-good-pairs) |
+| [1539-kth-missing-positive-number](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1552-magnetic-force-between-two-balls) |
 | [1631-path-with-minimum-effort](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1631-path-with-minimum-effort) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1707-maximum-xor-with-an-element-from-array) |
@@ -615,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1552-magnetic-force-between-two-balls) |
 | [1631-path-with-minimum-effort](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1631-path-with-minimum-effort) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
