@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0953-verifying-an-alien-dictionary](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0953-verifying-an-alien-dictionary) |
+| [1021-remove-outermost-parentheses](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1048-longest-string-chain](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1092-shortest-common-supersequence) |
 | [1106-parsing-a-boolean-expression](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1106-parsing-a-boolean-expression) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1021-remove-outermost-parentheses](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1106-parsing-a-boolean-expression](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1106-parsing-a-boolean-expression) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Hash Table
