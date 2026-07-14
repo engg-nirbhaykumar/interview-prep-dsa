@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1768-merge-strings-alternately) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1903-largest-odd-number-in-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1512-number-of-good-pairs) |
+| [1903-largest-odd-number-in-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1922-count-good-numbers) |
 | [1925-count-square-sum-triples](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1925-count-square-sum-triples) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1903-largest-odd-number-in-string](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/1903-largest-odd-number-in-string) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/2410-maximum-matching-of-players-with-trainers) |
