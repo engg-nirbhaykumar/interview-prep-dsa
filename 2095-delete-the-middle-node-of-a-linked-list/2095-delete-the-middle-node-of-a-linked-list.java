@@ -24,7 +24,7 @@ class Solution {
         // 'prev' is the node before middle
 
         // Delete the middle node
-        prev.next = slow.next;
+        prev.next = prev.next.next;
 
         // Return modified list
         return head;
