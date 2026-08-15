@@ -1204,4 +1204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0022-generate-parentheses) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
