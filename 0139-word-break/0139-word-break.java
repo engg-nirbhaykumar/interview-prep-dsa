@@ -38,6 +38,6 @@ class Solution {
         }
 
         // If no segmentation worked
-        return dp[start] = false;
+        return dp[start] = false; 
     }
 }
