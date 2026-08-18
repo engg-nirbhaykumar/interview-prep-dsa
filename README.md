@@ -1208,4 +1208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0139-word-break) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/engg-nirbhaykumar/interview-prep-dsa/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
