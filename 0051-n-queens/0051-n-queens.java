@@ -1,7 +1,3 @@
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-
 class Solution {
 
     // Stores all valid N-Queens board configurations
@@ -67,7 +63,7 @@ class Solution {
                 backTrack(board, row + 1);
 
                 // Backtrack: remove queen
-                board[row][col] = '.';
+                board[row][col] = '.'; 
             }
         }
     }
